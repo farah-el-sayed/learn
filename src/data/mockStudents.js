@@ -1,0 +1,57 @@
+// Mock Students Data
+export const mockStudents = [
+  {
+    id: 1,
+    userId: 1,
+    studentId: 'STU001',
+    enrollmentDate: '2024-01-15T10:30:00Z',
+    status: 'active',
+    currentLevel: 'intermediate',
+    totalCoursesEnrolled: 3,
+    completedCourses: 1,
+    inProgressCourses: 2,
+    totalHoursLearned: 45.5,
+    averageScore: 85.5,
+    badges: ['quick_learner', 'dedicated', 'consistent'],
+    learningGoals: ['web_development', 'javascript', 'react'],
+    bio: 'Passionate about web development and UI/UX design',
+    location: 'New York, USA',
+    timezone: 'America/New_York'
+  },
+  {
+    id: 2,
+    userId: 3,
+    studentId: 'STU002',
+    enrollmentDate: '2024-03-10T11:00:00Z',
+    status: 'active',
+    currentLevel: 'beginner',
+    totalCoursesEnrolled: 2,
+    completedCourses: 0,
+    inProgressCourses: 2,
+    totalHoursLearned: 12.3,
+    averageScore: 78.0,
+    badges: ['new_learner'],
+    learningGoals: ['python', 'data_science'],
+    bio: 'Learning programming to transition into tech',
+    location: 'London, UK',
+    timezone: 'Europe/London'
+  },
+  {
+    id: 3,
+    userId: 5,
+    studentId: 'STU003',
+    enrollmentDate: '2024-09-25T15:45:00Z',
+    status: 'pending',
+    currentLevel: 'beginner',
+    totalCoursesEnrolled: 0,
+    completedCourses: 0,
+    inProgressCourses: 0,
+    totalHoursLearned: 0,
+    averageScore: 0,
+    badges: [],
+    learningGoals: ['javascript', 'react'],
+    bio: null,
+    location: 'Toronto, Canada',
+    timezone: 'America/Toronto'
+  }
+];

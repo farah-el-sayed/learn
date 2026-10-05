@@ -1,0 +1,17 @@
+383:    at CoursePlayer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75018:3)
+399:    at CoursePlayer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75018:3)
+1370:    at CoursePlayer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75018:3)
+1386:    at CoursePlayer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75018:3)
+1826: "ProgressBar_on_dashboard": 2,
+1827: "Badge_on_dashboard": true,
+1828: "ActivityTimeline": true,
+1829: "QuizCard_start": true,
+1830: "Chat_chips": true,
+1831: "Chat_empty_state_or_messages": true,
+1832: "LessonList_curriculum": true,
+1834: "CoursePlayer": false,
+1835: "AIChat_compact": true,
+1836: "CourseGrid_mycourses": 0,
+1837: "StatCard_boxed": true,
+1838: "NotificationPanel": true,
+1839: "Navbar_role_switcher": true

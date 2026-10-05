@@ -1,0 +1,2059 @@
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at section
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at FeatureCourse (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74303:26)
+    at div
+    at section
+    at Featured (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74366:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at FeatureCourse (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74303:26)
+    at div
+    at section
+    at Featured (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74366:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at FeatureCourse (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74303:26)
+    at div
+    at section
+    at Featured (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74366:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at div
+    at div
+    at section
+    at FinalCta (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74646:32)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at FeatureCourse (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74303:26)
+    at div
+    at Courses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74718:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseRow (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74328:22)
+    at div
+    at div
+    at Courses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74718:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseRow (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74328:22)
+    at div
+    at div
+    at Courses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74718:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseRow (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74328:22)
+    at div
+    at div
+    at Courses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74718:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseRow (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74328:22)
+    at div
+    at div
+    at Courses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74718:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseRow (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74328:22)
+    at div
+    at div
+    at Courses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74718:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at div
+    at div
+    at section
+    at DetailHead (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74745:23)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Meta (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74893:17)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at DetailCta (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74952:22)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at nav
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at Curriculum (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74995:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at nav
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at Curriculum (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74995:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at article
+    at CoursePlayer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75018:3)
+    at LessonMain (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75075:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at article
+    at CoursePlayer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75018:3)
+    at LessonMain (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75075:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at Paths (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75525:29)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at Paths (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75525:29)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at Quiz (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75627:62)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at ContinueList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75231:25)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at div
+    at ContinueList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75231:25)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at ContinueList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75231:25)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at div
+    at ContinueList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75231:25)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74267:23)
+    at div
+    at CourseGrid (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75208:12)
+    at Recommended (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75261:24)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74267:23)
+    at div
+    at CourseGrid (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75208:12)
+    at Recommended (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75261:24)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74267:23)
+    at div
+    at CourseGrid (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75208:12)
+    at Recommended (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75261:24)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at section
+    at Upcoming (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75419:34)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at QuizCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75394:21)
+    at div
+    at section
+    at Upcoming (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75419:34)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at QuizCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75394:21)
+    at div
+    at section
+    at Upcoming (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75419:34)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74267:23)
+    at div
+    at CourseGrid (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75208:12)
+    at div
+    at MyCourses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75474:46)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74267:23)
+    at div
+    at CourseGrid (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75208:12)
+    at div
+    at MyCourses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75474:46)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at MyCourses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75474:46)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at AssignmentCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75356:3)
+    at div
+    at div
+    at Assignments (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75668:41)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at AssignmentCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75356:3)
+    at div
+    at div
+    at Assignments (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75668:41)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at AssignmentCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75356:3)
+    at div
+    at div
+    at Assignments (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75668:41)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at QuizCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75394:21)
+    at div
+    at div
+    at Quizzes (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75702:46)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at ChartCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75821:22)
+    at div
+    at div
+    at TeachOverview (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75837:33)
+    at div
+    at Teach (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75871:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at ChartCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75821:22)
+    at div
+    at div
+    at TeachOverview (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75837:33)
+    at div
+    at Teach (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75871:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at Teach (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75871:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at div
+    at Teach (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75871:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at Teach (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75871:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at div
+    at Teach (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75871:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at Teach (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75871:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at div
+    at Teach (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75871:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at Teach (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75871:33)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at TeachCourse (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75909:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at PageHead (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73782:7)
+    at div
+    at Admin
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at ChartCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75821:22)
+    at div
+    at div
+    at AdminAnalytics
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at Navbar (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73633:3)
+    at Topbar
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at section
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at FeatureCourse (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74303:26)
+    at div
+    at section
+    at Featured (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74366:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at FeatureCourse (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74303:26)
+    at div
+    at section
+    at Featured (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74366:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at FeatureCourse (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74303:26)
+    at div
+    at section
+    at Featured (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74366:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at div
+    at div
+    at section
+    at FinalCta (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74646:32)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at ContinueList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75231:25)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at div
+    at ContinueList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75231:25)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at ContinueList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75231:25)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at div
+    at ContinueList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75231:25)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74267:23)
+    at div
+    at CourseGrid (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75208:12)
+    at Recommended (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75261:24)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74267:23)
+    at div
+    at CourseGrid (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75208:12)
+    at Recommended (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75261:24)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74267:23)
+    at div
+    at CourseGrid (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75208:12)
+    at Recommended (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75261:24)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at section
+    at Upcoming (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75419:34)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at QuizCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75394:21)
+    at div
+    at section
+    at Upcoming (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75419:34)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at QuizCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75394:21)
+    at div
+    at section
+    at Upcoming (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75419:34)
+    at div
+    at div
+    at div
+    at Dashboard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75438:119)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at nav
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at Curriculum (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74995:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at nav
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at Curriculum (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74995:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at article
+    at CoursePlayer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75018:3)
+    at LessonMain (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75075:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at article
+    at CoursePlayer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75018:3)
+    at LessonMain (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75075:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at div
+    at div
+    at section
+    at DetailHead (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74745:23)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at section
+    at CurriculumFull (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74880:27)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Meta (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74893:17)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at DetailCta (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74952:22)
+    at div
+    at CourseDetail (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74972:58)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74267:23)
+    at div
+    at CourseGrid (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75208:12)
+    at div
+    at MyCourses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75474:46)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at CourseCard (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74267:23)
+    at div
+    at CourseGrid (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75208:12)
+    at div
+    at MyCourses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75474:46)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at MyCourses (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75474:46)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at Navbar (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73633:3)
+    at Topbar
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at section
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at FeatureCourse (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74303:26)
+    at div
+    at section
+    at Featured (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74366:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at FeatureCourse (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74303:26)
+    at div
+    at section
+    at Featured (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74366:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at FeatureCourse (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74303:26)
+    at div
+    at section
+    at Featured (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74366:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at section
+    at Studio (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74632:33)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at div
+    at div
+    at section
+    at FinalCta (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74646:32)
+    at div
+    at Home (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74666:32)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at Shell (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:76193:18)
+    at main
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at div
+    at footer
+    at Footer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73854:20)
+    at div
+    at App
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at nav
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at Curriculum (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74995:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at div
+    at nav
+    at LessonList (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74816:3)
+    at Curriculum (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:74995:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at Button2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73208:3)
+    at div
+    at article
+    at CoursePlayer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75018:3)
+    at LessonMain (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75075:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:51602:11)
+    at div
+    at article
+    at CoursePlayer (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75018:3)
+    at LessonMain (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75075:23)
+    at div
+    at div
+    at div
+    at div
+    at Lesson (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:75139:68)
+    at RenderedRoute (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:49599:11)
+    at Routes3 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50140:11)
+    at AppProvider (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:73120:24)
+    at Router (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50083:21)
+    at MemoryRouter2 (C:\Users\hp\Desktop\learn\smoke-bundle.cjs:50005:11)
+{
+ "ProgressBar_on_dashboard": 2,
+ "Badge_on_dashboard": true,
+ "ActivityTimeline": true,
+ "QuizCard_start": true,
+ "Chat_chips": true,
+ "Chat_empty_state_or_messages": true,
+ "LessonList_curriculum": true,
+ "LessonList_locked": true,
+ "LessonList_done_state": true,
+ "CoursePlayer_title": true,
+ "CoursePlayer_complete_button": true,
+ "CoursePlayer_complete_on_fresh_lesson": false,
+ "AIChat_compact": true,
+ "CourseGrid_mycourses": 2,
+ "StatCard_boxed": true,
+ "NotificationPanel": true,
+ "Navbar_role_switcher": true,
+ "MobileNav_drawer_closed": true
+}
+CHECKS_OK false
+DEBUG_COMPLETE_IDX 8242
+DEBUG_TAIL nejoin="round" class="lucide lucide-check"><path d="M20 6 9 17l-5-5"></path></svg>Completed</button><a class="inline-flex items-center justify-center gap-2 font-medium transition disabled:cursor-not-allowed disabled:opacity-40 border border-line bg-white text-
+[
+ {
+  "path": "/",
+  "length": 16452,
+  "ok": true
+ },
+ {
+  "path": "/courses",
+  "length": 8625,
+  "ok": true
+ },
+ {
+  "path": "/courses/design-foundations",
+  "length": 12316,
+  "ok": true
+ },
+ {
+  "path": "/courses/design-foundations/lessons/d1-l1",
+  "length": 11839,
+  "ok": true
+ },
+ {
+  "path": "/paths",
+  "length": 1951,
+  "ok": true
+ },
+ {
+  "path": "/assistant",
+  "length": 4823,
+  "ok": true
+ },
+ {
+  "path": "/profile",
+  "length": 1510,
+  "ok": true
+ },
+ {
+  "path": "/quiz/q-contrast",
+  "length": 3618,
+  "ok": true
+ },
+ {
+  "path": "/dashboard",
+  "length": 13259,
+  "ok": true
+ },
+ {
+  "path": "/my-courses",
+  "length": 3980,
+  "ok": true
+ },
+ {
+  "path": "/progress",
+  "length": 1328,
+  "ok": true
+ },
+ {
+  "path": "/assignments",
+  "length": 2624,
+  "ok": true
+ },
+ {
+  "path": "/quizzes",
+  "length": 1322,
+  "ok": true
+ },
+ {
+  "path": "/grades",
+  "length": 1963,
+  "ok": true
+ },
+ {
+  "path": "/certificates",
+  "length": 2139,
+  "ok": true
+ },
+ {
+  "path": "/settings",
+  "length": 1507,
+  "ok": true
+ },
+ {
+  "path": "/teach",
+  "length": 6420,
+  "ok": true
+ },
+ {
+  "path": "/teach/courses/design-foundations",
+  "length": 4307,
+  "ok": true
+ },
+ {
+  "path": "/teach/students",
+  "length": 3176,
+  "ok": true
+ },
+ {
+  "path": "/teach/analytics",
+  "length": 4144,
+  "ok": true
+ },
+ {
+  "path": "/admin",
+  "length": 2146,
+  "ok": true
+ },
+ {
+  "path": "/admin/users",
+  "length": 2836,
+  "ok": true
+ },
+ {
+  "path": "/admin/courses",
+  "length": 3130,
+  "ok": true
+ },
+ {
+  "path": "/admin/settings",
+  "length": 1524,
+  "ok": true
+ },
+ {
+  "path": "/admin/analytics",
+  "length": 4052,
+  "ok": true
+ },
+ {
+  "path": "App shell",
+  "length": 21587,
+  "ok": true
+ }
+]
+SMOKE_OK

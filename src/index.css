@@ -1,0 +1,171 @@
+@import './styles/animations.css';
+
+/* Tailwind CSS directives - these are valid Tailwind syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --color-paper: 247 245 240;
+  --color-surface: 252 251 248;
+  --color-surface-deep: 238 235 228;
+  --color-cream: 241 237 228;
+  --color-ink: 32 36 33;
+  --color-ink-soft: 59 64 60;
+  --color-ink-muted: 104 112 107;
+  --color-ink-faint: 154 160 154;
+  --color-line: 222 220 213;
+  --color-pine: 41 74 58;
+  --color-pine-deep: 30 56 44;
+  --color-pine-soft: 228 234 228;
+  --color-clay: 201 107 75;
+  --color-clay-deep: 169 85 56;
+  --color-clay-soft: 247 231 221;
+  --color-sage: 168 191 168;
+  --color-moss: 111 127 110;
+}
+
+:root.dark {
+  color-scheme: dark;
+  --color-paper: 24 30 26;
+  --color-surface: 32 40 35;
+  --color-surface-deep: 17 22 19;
+  --color-cream: 43 52 46;
+  --color-ink: 239 242 236;
+  --color-ink-soft: 218 225 217;
+  --color-ink-muted: 169 181 170;
+  --color-ink-faint: 133 148 136;
+  --color-line: 58 70 61;
+  --color-pine: 110 153 120;
+  --color-pine-deep: 88 129 99;
+  --color-pine-soft: 43 61 47;
+  --color-clay: 225 145 111;
+  --color-clay-deep: 241 169 135;
+  --color-clay-soft: 74 49 40;
+  --color-sage: 136 166 138;
+  --color-moss: 153 176 150;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  @apply bg-paper text-ink font-sans;
+  font-feature-settings: "ss01", "cv11";
+  overflow-x: hidden;
+}
+
+.dark .text-paper {
+  color: rgb(247 245 240 / var(--tw-text-opacity, 1));
+}
+
+.dark .bg-ink.text-paper {
+  background-color: rgb(48 58 51);
+}
+
+.dark .bg-ink.text-paper:hover {
+  background-color: rgb(63 75 66);
+}
+
+.dark .bg-pine.text-paper,
+.dark .bg-pine-deep.text-paper {
+  background-color: rgb(36 67 47);
+}
+
+.dark .bg-pine.text-paper:hover,
+.dark .bg-pine-deep.text-paper:hover {
+  background-color: rgb(28 54 38);
+}
+
+.dark .bg-clay.text-paper,
+.dark .bg-clay-deep.text-paper {
+  background-color: rgb(128 61 40);
+}
+
+.dark .bg-clay.text-paper:hover,
+.dark .bg-clay-deep.text-paper:hover {
+  background-color: rgb(104 46 30);
+}
+
+::selection {
+  background: #294A3A;
+  color: #FCFBF8;
+}
+
+/* thin elegant scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #DEDCD5;
+  border-radius: 8px;
+  border: 2px solid #F7F5F0;
+}
+
+/* editorial rules */
+.rule {
+  border-color: theme('colors.line');
+}
+
+.prose-serif h1, .prose-serif h2 {
+  @apply font-serif;
+  letter-spacing: -0.02em;
+}
+
+/* focus */
+:focus-visible {
+  outline: 2px solid #294A3A;
+  outline-offset: 2px;
+}
+
+/* line clamp helper (tailwind has it, fallback) */
+.clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-clamp: 2;
+}
+
+/* Google Translate (Arabic toggle): keep our button, drop Google's chrome.
+   Google injects its own styles *after* this file and may drop/re-add the
+   banner, so translate.js also appends a later stylesheet + inline styles. */
+#google_translate_element {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+iframe.goog-te-banner-frame,
+.goog-te-banner-frame.skiptranslate,
+.skiptranslate > iframe,
+div.skiptranslate:has(> iframe),
+.goog-te-balloon-frame,
+.goog-te-spinner-pos,
+#goog-gt-tt,
+.VIpgJd-ZVi9od-ORHb,
+.VIpgJd-ZVi9od-aZ2wEe,
+.VIpgJd-ZVi9od-aZ2wEe-wOHMyf,
+.VIpgJd-ZVi9od-l4VXw-haA0lb {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+html body {
+  top: 0 !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}

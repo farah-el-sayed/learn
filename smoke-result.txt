@@ -1,0 +1,2 @@
+CHECKS_OK false
+SMOKE_OK
