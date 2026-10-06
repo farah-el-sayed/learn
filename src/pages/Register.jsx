@@ -66,7 +66,7 @@ export default function Register() {useTranslation();
     <AuthLayout>
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
-          <BrandMark size="lg" className="mx-auto" />
+          <BrandMark size="lg" className="mx-auto rounded-full" />
           <h1 className="mt-4 font-serif text-[32px]">{localizeText("Create account")}</h1>
           <p className="mt-2 text-[14px] text-ink-muted">{localizeText("Start your learning journey today")}</p>
         </div>

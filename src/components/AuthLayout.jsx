@@ -1,9 +1,11 @@
-import { useTranslation } from "react-i18next";import { localizeText } from "../i18n.js";export default function AuthLayout({ children }) {useTranslation();
+import { useTranslation } from "react-i18next";import { localizeText } from "../i18n.js";
+import write from '../images/write.jpg'
+export default function AuthLayout({ children }) {useTranslation();
   return (
     <div className="grid min-h-[calc(100vh-4rem)] bg-paper lg:grid-cols-2">
       <aside className="relative h-56 overflow-hidden bg-paper sm:h-72 lg:sticky lg:top-16 lg:h-[calc(100vh-4rem)]" aria-label={localizeText("A quiet study space")}>
         <img
-          src="src/images/write.jpg"
+          src={write}
           alt={localizeText("A learner writing in a notebook at a desk")}
           className="absolute bottom-0 right-0 top-4 h-[calc(100%-1rem)] w-[88%] object-cover object-center lg:top-10 lg:h-[calc(100%-2.5rem)]"
           loading="eager" />
