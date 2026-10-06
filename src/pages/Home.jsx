@@ -4,6 +4,7 @@ import { useApp } from '../context/AppContext.jsx';
 import { Featured, HowItWorks } from './HomeA.jsx';
 import { TutorSection, Stats } from './HomeB.jsx';
 import { Voices, Studio, FinalCta } from './HomeC.jsx';
+import photoLearn from '../images/photo-learn.png';
 export default function Home() {useTranslation();
   const { setAssistantOpen } = useApp();
   return (
@@ -28,7 +29,7 @@ export default function Home() {useTranslation();
                 <p className="text-[12px] text-ink-faint">{localizeText("Knows your syllabus")}</p>
               </div>
               <img
-                src="src/images/photo-learn.png"
+                src={photoLearn}      
                 alt={localizeText("Learners studying together around a table")}
                 className="h-36 w-full object-cover"
                 loading="eager" />
