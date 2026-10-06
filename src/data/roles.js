@@ -5,9 +5,9 @@ export const quizzes = [
     lessonId: 'd1-l2',
     title: 'Contrast with intent — check',
     questions: [
-      { id: 'qq1', q: 'What should the eye read first on any page?', options: ['Everything at once', 'One clear winner', 'The footer'], answer: 1 },
-      { id: 'qq2', q: 'When two things differ, the difference should be…', options: ['Timid', 'Clear and confident', 'Hidden'], answer: 1 },
-      { id: 'qq3', q: 'What does generous spacing signal?', options: ['Importance', 'A mistake', 'Nothing'], answer: 0 },
+      { id: 'q-contrast-qq1', q: 'What should the eye read first on any page?', options: ['Everything at once', 'One clear winner', 'The footer'], answer: 1 },
+      { id: 'q-contrast-qq2', q: 'When two things differ, the difference should be…', options: ['Timid', 'Clear and confident', 'Hidden'], answer: 1 },
+      { id: 'q-contrast-qq3', q: 'What does generous spacing signal?', options: ['Importance', 'A mistake', 'Nothing'], answer: 0 },
     ],
   },
   {
@@ -16,8 +16,8 @@ export const quizzes = [
     lessonId: 'w1-l1',
     title: 'Lead with the point — check',
     questions: [
-      { id: 'qq1', q: 'Where should the main point go?', options: ['At the end', 'First', 'In the middle'], answer: 1 },
-      { id: 'qq2', q: 'How many ideas per sentence?', options: ['One', 'Three', 'As many as possible'], answer: 0 },
+      { id: 'q-clarity-qq1', q: 'Where should the main point go?', options: ['At the end', 'First', 'In the middle'], answer: 1 },
+      { id: 'q-clarity-qq2', q: 'How many ideas per sentence?', options: ['One', 'Three', 'As many as possible'], answer: 0 },
     ],
   },
 ]

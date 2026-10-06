@@ -1,6 +1,6 @@
-import { useState } from 'react'
-import { Check, ChevronDown } from 'lucide-react'
-import useDismiss from '../hooks/useDismiss.js'
+import { localizeText } from "../i18n.js";import { useTranslation } from "react-i18next";import { useState } from 'react';
+import { Check, ChevronDown } from 'lucide-react';
+import useDismiss from '../hooks/useDismiss.js';
 
 // Reusable menu: a trigger plus a floating panel. Handles outside-click and Escape.
 // `trigger` may be a node or a function ({ open, toggle }) => node.
@@ -15,56 +15,56 @@ export function Dropdown({
   header,
   footer,
   onSelect,
-  className = '',
-}) {
-  const [open, setOpen] = useState(false)
-  const ref = useDismiss({ open, onClose: () => setOpen(false), outside: true })
-  const close = () => setOpen(false)
+  className = ''
+}) {useTranslation();
+  const [open, setOpen] = useState(false);
+  const ref = useDismiss({ open, onClose: () => setOpen(false), outside: true });
+  const close = () => setOpen(false);
 
-  const button = typeof trigger === 'function'
-    ? trigger({ open, toggle: () => setOpen(o => !o), close })
-    : trigger || (
-      <button type="button" onClick={() => setOpen(o => !o)} className={buttonClassName} aria-haspopup="menu" aria-expanded={open}>
-        {label}
+  const button = typeof trigger === 'function' ?
+  trigger({ open, toggle: () => setOpen((o) => !o), close }) :
+  trigger ||
+  <button type="button" onClick={() => setOpen((o) => !o)} className={buttonClassName} aria-haspopup="menu" aria-expanded={open}>
+        {localizeText(label)}
         <ChevronDown size={14} className={open ? 'rotate-180 transition' : 'transition'} />
-      </button>
-    )
+      </button>;
+
 
   return (
     <div ref={ref} className={`relative ${className}`.trim()}>
-      {button}
-      {open && (
-        <div
-          role="menu"
-          className={`absolute ${align === 'left' ? 'left-0' : 'right-0'} z-50 mt-1.5 border border-line bg-white shadow-subtle ${width} ${menuClassName} dropdown-enter`.trim()}
-        >
-          {header && <div className="border-b border-line px-4 py-2.5">{header}</div>}
-          {items.map(item => {
-            const Icon = item.icon
-            return (
-              <button
-                key={item.id ?? item.label}
-                type="button"
-                role="menuitem"
-                onClick={() => {
-                  close()
-                  item.onClick?.(item)
-                  onSelect?.(item)
-                }}
-                className={`flex w-full items-center gap-2.5 px-3.5 py-2.5 text-left text-[13.5px] transition ${item.active ? 'bg-paper font-medium text-ink' : 'text-ink-soft hover:bg-paper hover:text-ink'}`}
-              >
-                {Icon && <Icon size={15} className="shrink-0 text-ink-faint" />}
-                <span className="min-w-0 flex-1 truncate">{item.label}</span>
-                {item.meta && <span className="shrink-0 text-[11.5px] text-ink-faint">{item.meta}</span>}
-                {item.active && <Check size={14} className="shrink-0 text-pine" />}
-              </button>
-            )
-          })}
-          {footer && <div className="border-t border-line px-4 py-2.5">{footer}</div>}
-        </div>
-      )}
-    </div>
-  )
+      {localizeText(button)}
+      {localizeText(open &&
+      <div
+        role="menu"
+        className={`absolute ${align === 'left' ? 'left-0' : 'right-0'} z-50 mt-1.5 border border-line bg-white shadow-subtle ${width} ${menuClassName} dropdown-enter`.trim()}>
+        
+          {localizeText(header && <div className="border-b border-line px-4 py-2.5">{localizeText(header)}</div>)}
+          {localizeText(items.map((item) => {
+          const Icon = item.icon;
+          return (
+            <button
+              key={item.id ?? item.label}
+              type="button"
+              role="menuitem"
+              onClick={() => {
+                close();
+                item.onClick?.(item);
+                onSelect?.(item);
+              }}
+              className={`flex w-full items-center gap-2.5 px-3.5 py-2.5 text-left text-[13.5px] transition ${item.active ? 'bg-paper font-medium text-ink' : 'text-ink-soft hover:bg-paper hover:text-ink'}`}>
+              
+                {localizeText(Icon && <Icon size={15} className="shrink-0 text-ink-faint" />)}
+                <span className="min-w-0 flex-1 truncate">{localizeText(item.label)}</span>
+                {localizeText(item.meta && <span className="shrink-0 text-[11.5px] text-ink-faint">{localizeText(item.meta)}</span>)}
+                {localizeText(item.active && <Check size={14} className="shrink-0 text-pine" />)}
+              </button>);
+
+        }))}
+          {localizeText(footer && <div className="border-t border-line px-4 py-2.5">{localizeText(footer)}</div>)}
+        </div>)
+      }
+    </div>);
+
 }
 
-export default Dropdown
+export default Dropdown;

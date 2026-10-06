@@ -1,13 +1,15 @@
-import { useApp } from '../context/AppContext.jsx'
-import StatCard from '../components/StatCard.jsx'
-import { PageHead } from '../components/PageHead.jsx'
+import { useTranslation } from "react-i18next";import { useApp } from '../context/AppContext.jsx';
+import { localizeText } from '../i18n.js';
+import StatCard from '../components/StatCard.jsx';
+import { PageHead } from '../components/PageHead.jsx';
 
 export function DashHead({ name }) {
-  const h = new Date().getHours()
-  const g = h < 12 ? 'Good morning' : h < 18 ? 'Good afternoon' : 'Good evening'
-  return <PageHead kicker="My learning" title={`${g}, ${name}.`} lede="Continue where you left off." size="lg" />
+  const { t } = useTranslation();
+  const h = new Date().getHours();
+  const greeting = h < 12 ? 'dashboard.morning' : h < 18 ? 'dashboard.afternoon' : 'dashboard.evening';
+  return <PageHead kicker="My learning" title={t(greeting, { name: localizeText(name) })} lede="Continue where you left off." size="lg" />;
 }
 
-export function DashStats({ items }) {
-  return <StatCard className="mt-10" items={items} cols={4} />
+export function DashStats({ items }) {useTranslation();
+  return <StatCard className="mt-10" items={items} cols={4} />;
 }

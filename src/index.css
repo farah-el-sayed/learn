@@ -51,6 +51,128 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 
+[dir="rtl"] body {
+  font-family: Tahoma, "Noto Sans Arabic", sans-serif;
+}
+
+[dir="rtl"] .ml-auto {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+[dir="rtl"] .mr-auto {
+  margin-right: 0;
+  margin-left: auto;
+}
+
+[dir="rtl"] .text-left {
+  text-align: right;
+}
+
+[dir="rtl"] [class~="left-0"] {
+  right: 0;
+  left: auto;
+}
+
+[dir="rtl"] [class~="left-6"] {
+  right: 1.5rem;
+  left: auto;
+}
+
+[dir="rtl"] [class~="left-[12%]"] {
+  right: 12%;
+  left: auto;
+}
+
+[dir="rtl"] [class~="right-0"] {
+  left: 0;
+  right: auto;
+}
+
+[dir="rtl"] [class~="right-1.5"] {
+  left: 0.375rem;
+  right: auto;
+}
+
+[dir="rtl"] [class~="right-4"] {
+  left: 1rem;
+  right: auto;
+}
+
+[dir="rtl"] [class~="ml-auto"] {
+  margin-right: auto;
+  margin-left: 0;
+}
+
+[dir="rtl"] [class~="mr-auto"] {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+[dir="rtl"] [class~="ml-1.5"] {
+  margin-right: 0.375rem;
+  margin-left: 0;
+}
+
+[dir="rtl"] [class~="ml-5"] {
+  margin-right: 1.25rem;
+  margin-left: 0;
+}
+
+[dir="rtl"] [class~="mr-1.5"] {
+  margin-left: 0.375rem;
+  margin-right: 0;
+}
+
+[dir="rtl"] [class~="mr-2"] {
+  margin-left: 0.5rem;
+  margin-right: 0;
+}
+
+[dir="rtl"] [class~="mr-1"] {
+  margin-left: 0.25rem;
+  margin-right: 0;
+}
+
+[dir="rtl"] [class~="-mr-1"] {
+  margin-left: -0.25rem;
+  margin-right: 0;
+}
+
+[dir="rtl"] [class~="pl-3"] {
+  padding-right: 0.75rem;
+  padding-left: 0;
+}
+
+[dir="rtl"] [class~="border-l"] {
+  border-right-width: 1px;
+  border-left-width: 0;
+}
+
+[dir="rtl"] [class~="border-l-2"] {
+  border-right-width: 2px;
+  border-left-width: 0;
+}
+
+[dir="rtl"] [class~="border-r"] {
+  border-left-width: 1px;
+  border-right-width: 0;
+}
+
+[dir="rtl"] [class~="border-r-2"] {
+  border-left-width: 2px;
+  border-right-width: 0;
+}
+
+[dir="rtl"] [class~="-translate-x-1/2"] {
+  --tw-translate-x: 50%;
+}
+
+[dir="rtl"] .lucide-chevron-left,
+[dir="rtl"] .lucide-chevron-right {
+  transform: rotate(180deg);
+}
+
 body {
   @apply bg-paper text-ink font-sans;
   font-feature-settings: "ss01", "cv11";
@@ -131,41 +253,4 @@ body {
   -webkit-box-orient: vertical;
   overflow: hidden;
   line-clamp: 2;
-}
-
-/* Google Translate (Arabic toggle): keep our button, drop Google's chrome.
-   Google injects its own styles *after* this file and may drop/re-add the
-   banner, so translate.js also appends a later stylesheet + inline styles. */
-#google_translate_element {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  visibility: hidden;
-}
-
-iframe.goog-te-banner-frame,
-.goog-te-banner-frame.skiptranslate,
-.skiptranslate > iframe,
-div.skiptranslate:has(> iframe),
-.goog-te-balloon-frame,
-.goog-te-spinner-pos,
-#goog-gt-tt,
-.VIpgJd-ZVi9od-ORHb,
-.VIpgJd-ZVi9od-aZ2wEe,
-.VIpgJd-ZVi9od-aZ2wEe-wOHMyf,
-.VIpgJd-ZVi9od-l4VXw-haA0lb {
-  display: none !important;
-  visibility: hidden !important;
-  height: 0 !important;
-  border: none !important;
-  box-shadow: none !important;
-}
-
-html body {
-  top: 0 !important;
-  margin-top: 0 !important;
-  padding-top: 0 !important;
 }

@@ -1,6 +1,6 @@
-import LessonList from '../components/LessonList.jsx'
+import { useTranslation } from "react-i18next";import LessonList from '../components/LessonList.jsx';
 
-export function Curriculum({ course, lesson, doneIds, lockedAfter }) {
+export function Curriculum({ course, lesson, doneIds, lockedAfter }) {useTranslation();
   return (
     <LessonList
       syllabus={course.syllabus}
@@ -8,7 +8,7 @@ export function Curriculum({ course, lesson, doneIds, lockedAfter }) {
       currentLessonId={lesson.id}
       doneIds={doneIds}
       lockedAfter={lockedAfter}
-      heading="Curriculum"
-    />
-  )
+      heading="Curriculum" />);
+
+
 }

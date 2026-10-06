@@ -1,17 +1,18 @@
-import Navbar from './Navbar.jsx'
-import { useLocation } from 'react-router-dom'
+import { useTranslation } from "react-i18next";import Navbar from './Navbar.jsx';
+import { useLocation } from 'react-router-dom';
 
-// Workspace top bar: the shared Navbar preset, kept so the app shell has one entry point.
-export default function Topbar(props) {
-  const location = useLocation()
-  const isLanding = location.pathname === '/'
-  
-  return <Navbar 
-    variant={isLanding ? 'public' : 'workspace'} 
-    showAuth={isLanding}
+// One navbar everywhere: same as the homepage (public links + search +
+// actions) on every page, so moving around the site never changes the top bar.
+export default function Topbar(props) {useTranslation();
+  const location = useLocation();
+  const isLanding = location.pathname === '/';
+
+  return <Navbar
+    variant="public"
+    showAuth
     showSidebarToggle={!isLanding}
-    {...props} 
-  />
+    {...props} />;
+
 }
 
-export { Sidebar } from './Sidebar.jsx'
+export { Sidebar } from './Sidebar.jsx';
